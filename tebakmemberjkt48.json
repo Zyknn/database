@@ -2,6 +2,7 @@
   {
     "data": {
       "status": 200,
+      "gen": 7,
       "img": "https://telegra.ph/file/3ed17bfe54f7d3a249bf9.jpg",
       "jawaban": "Michie"
     }
@@ -9,6 +10,7 @@
   {
     "data": {
       "status": 200,
+      "gen": 12,
       "img": "https://telegra.ph/file/237f9a9fc3cc553349f31.jpg",
       "jawaban": "Fritzy"
     }
@@ -16,6 +18,7 @@
   {
     "data": {
       "status": 200,
+      "gen": 12,
       "img": "https://telegra.ph/file/dd2e44ca0cab8a31f52a9.jpg",
       "jawaban": "Oline"
     }
@@ -23,6 +26,7 @@
   {
     "data": {
       "status": 200,
+      "gen": 12,
       "img": "https://telegra.ph/file/d95bd099879177c439079.jpg",
       "jawaban": "Erine"
     }
