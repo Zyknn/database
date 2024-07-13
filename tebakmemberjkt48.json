@@ -2,9 +2,73 @@
   {
     "data": {
       "status": 200,
+      "gen": 7,
+      "img": "https://telegra.ph/file/e0b09857a698a49f74026.jpg",
+      "jawaban": "Christy"
+    }
+  },
+  {
+    "data": {
+      "status": 200,
+      "gen": 7,
+      "img": "https://telegra.ph/file/c9eeb3f695134c056dc45.jpg",
+      "jawaban": "Azizi"
+    }
+  },
+  {
+    "data": {
+      "status": 200,
+      "gen": 7,
+      "img": "https://telegra.ph/file/a170f461cd7a506786bd7.jpg",
+      "jawaban": "Freya"
+    }
+  },
+  {
+    "data": {
+      "status": 200,
+      "gen": 8,
+      "img": "https://telegra.ph/file/d729ea153dda0858f01b5.jpg",
+      "jawaban": "Fiony"
+    }
+  },
+  {
+    "data": {
+      "status": 200,
+      "gen": 9,
+      "img": "https://telegra.ph/file/1ffd7f34bde8ed93d5f65.jpg",
+      "jawaban": "Marsha"
+    }
+  },
+  {
+    "data": {
+      "status": 200,
+      "gen": 11,
+      "img": "https://telegra.ph/file/2c109b33cd29c5568e60d.jpg",
+      "jawaban": "Cathy"
+    }
+  },
+  {
+    "data": {
+      "status": 200,
+      "gen": 11,
+      "img": "https://pin.it/2FJ3Y0DLn",
+      "jawaban": "Greesel"
+    }
+  },
+    {
+    "data": {
+      "status": 200,
       "gen": 11,
       "img": "https://telegra.ph/file/3ed17bfe54f7d3a249bf9.jpg",
       "jawaban": "Michie"
+    }
+  },
+  {
+    "data": {
+      "status": 200,
+      "gen": 12,
+      "img": "https://telegra.ph/file/655c2814bafa9a78cefb6.jpg",
+      "jawaban": "Ribka"
     }
   },
   {
