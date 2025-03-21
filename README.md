@@ -7,7 +7,7 @@ Repository ini berisi kumpulan file JSON yang berisi data soal dan jawaban untuk
 | No  | Nama File              | Deskripsi |
 |-----|------------------------|-----------|
 | 1   | **asahotak.json**      | Soal dan jawaban untuk game Asah Otak. |
-| 2   | **caklontong.json**    | Kumpulan soal dan jawaban dari permainan Cak Lontong. |
+| 2   | **caklontong.json**    | Soal dan jawaban dari permainan Cak Lontong. |
 | 3   | **family100.json**     | Data pertanyaan dan jawaban untuk game Family 100. |
 | 4   | **lengkapikalimat.json** | Soal untuk melengkapi kalimat yang belum selesai. |
 | 5   | **quiz.json**          | Berbagai macam pertanyaan kuis umum. |
@@ -26,9 +26,24 @@ Repository ini berisi kumpulan file JSON yang berisi data soal dan jawaban untuk
 | 18  | **tebaktebakan.json**  | Kumpulan teka-teki dan tebakan umum. |
 | 19  | **tekateki.json**      | Game teka-teki yang mengasah logika. |
 
+## 📥 Cara Penggunaan
+
+1. **Download Repository**
+   - Unduh semua file dalam format ZIP atau clone repository dengan perintah berikut:
+     ```bash
+     git clone https://github.com/Zyknn/database.git
+     ```
+
+2. **Menggunakan Raw JSON**
+   - Akses langsung data JSON dengan URL berikut:
+     ```
+     https://raw.githubusercontent.com/Zyknn/database/main/namafile.json
+     ```
+   - Ganti `namafile.json` dengan salah satu nama file dari daftar di atas.
+
 ## 📜 Lisensi
 
-Repository ini bebas digunakan untuk keperluan edukasi dan hiburan. Harap tidak digunakan untuk tujuan komersial tanpa izin.
+Repository ini bebas digunakan untuk keperluan edukasi dan hiburan. Harap tidak digunakan untuk tujuan komersial karena gratis.
 
 📩 Jika ada pertanyaan atau saran, silakan buat issue atau hubungi pemilik repository. Selamat bermain dan mengasah otak! 🎉
 
