@@ -445,13 +445,13 @@
   },
   {
     "index": 74,
-    "soal": "A-G-E-N-T-N-B",
-    "tipe": "Hewan",
-    "jawaban": "BANTENG"
+    "soal": "B-A-N-D-U-N-G",
+    "tipe": "Kota",
+    "jawaban": "BANDUNG"
   },
   {
     "index": 75,
-    "soal": "A-K-A-D-B",
+    "soal": "B-A-D-A-K",
     "tipe": "Hewan",
     "jawaban": "BADAK"
   },
@@ -469,9 +469,9 @@
   },
   {
     "index": 78,
-    "soal": "A-P-S-I-N-G",
-    "tipe": "Buah",
-    "jawaban": "PISANG"
+    "soal": "K-A-P-A-L",
+    "tipe": "Benda",
+    "jawaban": "KAPAL"
   },
   {
     "index": 79,
@@ -499,7 +499,7 @@
   },
   {
     "index": 83,
-    "soal": "I-P-T-U-N",
+    "soal": "P-I-N-T-U",
     "tipe": "Benda",
     "jawaban": "PINTU"
   },
@@ -511,7 +511,7 @@
   },
   {
     "index": 85,
-    "soal": "A-K-R-U-B-E",
+    "soal": "K-E-R-B-A-U",
     "tipe": "Hewan",
     "jawaban": "KERBAU"
   },
@@ -529,14 +529,14 @@
   },
   {
     "index": 88,
-    "soal": "A-C-L-E-A-N",
+    "soal": "A-C-N-E-L-A",
     "tipe": "Benda",
     "jawaban": "CELANA"
   },
   {
     "index": 89,
     "soal": "H-A-N-A-L-A-M",
-    "tipe": "BENDA",
+    "tipe": "Benda",
     "jawaban": "HALAMAN"
   },
   {
@@ -589,7 +589,7 @@
   },
   {
     "index": 98,
-    "soal": "D-A-K-U-H-N",
+    "soal": "H-A-N-D-U-K",
     "tipe": "Benda",
     "jawaban": "HANDUK"
   },
@@ -625,8 +625,8 @@
   },
   {
     "index": 104,
-    "soal": "E-L-H-A-T",
-    "tipe": "Tempst",
+    "soal": "H-A-L-T-E",
+    "tipe": "Tempat",
     "jawaban": "HALTE"
   },
   {
@@ -637,7 +637,7 @@
   },
   {
     "index": 106,
-    "soal": "D-A-R-A-B-A-N",
+    "soal": "B-A-N-D-A-R-A",
     "tipe": "Tempat",
     "jawaban": "BANDARA"
   },
@@ -805,9 +805,9 @@
   },
   {
     "index": 134,
-    "soal": "A-P-U-S",
-    "tipe": "Hewan",
-    "jawaban": "PAUS"
+    "soal": "A-S-P-A-L",
+    "tipe": "Benda",
+    "jawaban": "ASPAL"
   },
   {
     "index": 135,
@@ -865,7 +865,7 @@
   },
   {
     "index": 144,
-    "soal": "P-A-L-E",
+    "soal": "A-P-E-L",
     "tipe": "Buah",
     "jawaban": "APEL"
   },
@@ -1267,7 +1267,7 @@
   },
   {
     "index": 211,
-    "soal": "G-A-E-L-S",
+    "soal": "G-E-L-A-S",
     "tipe": "Benda",
     "jawaban": "GELAS"
   },
@@ -1303,7 +1303,7 @@
   },
   {
     "index": 217,
-    "soal": "A-P-I-O-N",
+    "soal": "P-I-A-N-O",
     "tipe": "Benda",
     "jawaban": "PIANO"
   },
@@ -1795,7 +1795,7 @@
   },
   {
     "index": 299,
-    "soal": "A-H-A-W-S",
+    "soal": "S-A-W-A-H",
     "tipe": "Tempat",
     "jawaban": "SAWAH"
   },
@@ -2018,7 +2018,7 @@
   {
     "index": 336,
     "soal": "G-U-N-K-K-N-A-G",
-    "tipe": "SayuraN",
+    "tipe": "Sayuran",
     "jawaban": "KANGKUNG"
   },
   {

@@ -191,7 +191,7 @@
   },
   {
     "index": 38,
-    "soal": "Ayam Goreng, Arab, SPBU, Katel",
+    "soal": "Ayam Goreng, Arab, SPBU, Katalis",
     "jawaban": "MINYAK"
   },
   {
@@ -231,7 +231,7 @@
   },
   {
     "index": 46,
-    "soal": "Televisi, Battre, Halilintar, Tengangan",
+    "soal": "Televisi, Baterai, Halilintar, Tersengat",
     "jawaban": "LISTRIK"
   },
   {
@@ -251,7 +251,7 @@
   },
   {
     "index": 50,
-    "soal": "Bambu, China, Hitam, Putih, Llucu",
+    "soal": "Bambu, China, Hitam, Putih, Lucu",
     "jawaban": "PANDA"
   },
   {
@@ -276,7 +276,7 @@
   },
   {
     "index": 55,
-    "soal": "Apolo, Bulan",
+    "soal": "Apollo, Bulan",
     "jawaban": "ASTRONOT"
   },
   {
@@ -357,11 +357,11 @@
   {
     "index": 71,
     "soal": "Loncat, Kantung, Australia",
-    "jawaban": "KANGGURU"
+    "jawaban": "KANGURU"
   },
   {
     "index": 72,
-    "soal": "Berlian, Emas, Peta, Rahasaia",
+    "soal": "Berlian, Emas, Peta, Rahasia",
     "jawaban": "HARTA KARUN"
   },
   {
@@ -432,7 +432,7 @@
   {
     "index": 86,
     "soal": "Naik Turun, Jaket, Celana, Tas",
-    "jawaban": "RESLETING"
+    "jawaban": "RITSLEITING"
   },
   {
     "index": 87,
@@ -536,7 +536,7 @@
   },
   {
     "index": 107,
-    "soal": "Stir, Roda, Donat",
+    "soal": "Setir, Roda, Donat",
     "jawaban": "LINGKARAN"
   },
   {
@@ -806,7 +806,7 @@
   },
   {
     "index": 161,
-    "soal": "Luabang, Air, Timba",
+    "soal": "Lubang, Air, Timba",
     "jawaban": "SUMUR"
   },
   {
@@ -891,8 +891,8 @@
   },
   {
     "index": 178,
-    "soal": "Bayi, Kencing, Lembut",
-    "jawaban": "POPOK"
+    "soal": "Bintang, Langit, Malam, Cahaya",
+    "jawaban": "BINTANG"
   },
   {
     "index": 179,
@@ -996,7 +996,7 @@
   },
   {
     "index": 199,
-    "soal": "Roti, Stroberry, Cair",
+    "soal": "Roti, Stroberi, Cair",
     "jawaban": "SELAI"
   },
   {
@@ -1046,7 +1046,7 @@
   },
   {
     "index": 209,
-    "soal": "Hewan, Langka, Hutan,Kalimantan",
+    "soal": "Hewan, Langka, Hutan, Kalimantan",
     "jawaban": "ORANG UTAN"
   },
   {
@@ -1336,7 +1336,7 @@
   },
   {
     "index": 267,
-    "soal": "Tekhnology, Merancang, Pekerjaan",
+    "soal": "Teknologi, Merancang, Pekerjaan",
     "jawaban": "INSINYUR"
   },
   {
@@ -1396,7 +1396,7 @@
   },
   {
     "index": 279,
-    "soal": "Molusca, Lambat, Bekicot",
+    "soal": "Moluska, Lambat, Bekicot",
     "jawaban": "SIPUT"
   },
   {
@@ -1412,7 +1412,7 @@
   {
     "index": 282,
     "soal": "Hitam, Laut, Berduri",
-    "jawaban": "BABI LAUT"
+    "jawaban": "LANDAK LAUT"
   },
   {
     "index": 283,
@@ -1481,8 +1481,8 @@
   },
   {
     "index": 296,
-    "soal": "Penggalian, Benda, Kuno",
-    "jawaban": "ARKEOLOGI"
+    "soal": "Museum, Kuno, Sejarah, Fosil",
+    "jawaban": "FOSIL"
   },
   {
     "index": 297,

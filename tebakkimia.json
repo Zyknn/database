@@ -88,10 +88,6 @@
     "lambang": "Es"
   },
   {
-    "unsur": "Emas",
-    "lambang": "Au"
-  },
-  {
     "unsur": "Erbium",
     "lambang": "Er"
   },
@@ -102,10 +98,6 @@
   {
     "unsur": "Fermium",
     "lambang": "Fm"
-  },
-  {
-    "unsur": "Besi",
-    "lambang": "Fe"
   },
   {
     "unsur": "Flerovium",
@@ -308,20 +300,8 @@
     "lambang": "Pd"
   },
   {
-    "unsur": "Perak",
-    "lambang": "Ag"
-  },
-  {
     "unsur": "Timbal",
     "lambang": "Pb"
-  },
-  {
-    "unsur": "Kalium",
-    "lambang": "K"
-  },
-  {
-    "unsur": "Natrium",
-    "lambang": "Na"
   },
   {
     "unsur": "Platina",
@@ -416,10 +396,6 @@
     "lambang": "Sn"
   },
   {
-    "unsur": "Antimon",
-    "lambang": "Sb"
-  },
-  {
     "unsur": "Strontium",
     "lambang": "Sr"
   },
@@ -440,20 +416,8 @@
     "lambang": "Te"
   },
   {
-    "unsur": "Tembaga",
-    "lambang": "Cu"
-  },
-  {
     "unsur": "Terbium",
     "lambang": "Tb"
-  },
-  {
-    "unsur": "Timah",
-    "lambang": "Sn"
-  },
-  {
-    "unsur": "Timbal",
-    "lambang": "Pb"
   },
   {
     "unsur": "Titanium",
